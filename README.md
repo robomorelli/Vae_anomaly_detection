@@ -1,8 +1,8 @@
 # Vae_anomaly_detection
 
-In this repository there is all the code necessary to run a full analysis, the **scripts** are so divided:
+In this repository there is all the code necessary to run a complete analysis, the **scripts** are so divided:
 
-** all the background and signals root file are supposed to be in the **"/root_data"** folder
+**all the background and signals root file are supposed to be in the **"/root_data"** folder**
 
 1) **010_root_to_numpy.py**: run this script to convert from root to numpy data your background/signal .root data.
    -) The root data are supposed to be in the **"/root_data"** folder
