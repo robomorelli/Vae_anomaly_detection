@@ -29,3 +29,4 @@ In this repository there is all the code necessary to run a complete analysis, t
  
  7) utils.py, config.py, vae_utility are auxiliary custom module containing path and utility functions used in the above scripts
  
+prova git
